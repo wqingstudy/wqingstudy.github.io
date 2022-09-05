@@ -374,6 +374,17 @@
     
     
     <entry>
+      <title>category</title>
+      <link href="/category/index.html"/>
+      <url>/category/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
@@ -388,17 +399,6 @@
       <title>tags</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>category</title>
-      <link href="/category/index.html"/>
-      <url>/category/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
